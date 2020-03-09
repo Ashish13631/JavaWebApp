@@ -17,7 +17,7 @@ public class HelloServlet extends HttpServlet {
 
     public HelloServlet() {
         super();
-        // TODO comment
+        // TODO comments
     }
 
 
