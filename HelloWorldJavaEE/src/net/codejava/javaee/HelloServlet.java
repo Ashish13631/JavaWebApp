@@ -17,8 +17,10 @@ public class HelloServlet extends HttpServlet {
 
     public HelloServlet() {
         super();
-        // TODO Auto-generated constructor stub
+        // TODO comment
     }
+
+
 
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
