@@ -54,5 +54,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<testSourceDirectory>${project.basedir}/test</testSourceDirectory>
 	</build>
 </project>
