@@ -12,7 +12,7 @@ public class HelloServletTest {
 
   @Test
  public void test() {
-    //fail("Not yet implemented");
-    assertEquals("Ashish", "Ashish");
+    fail("Not yet implemented");
+    //assertEquals("Ashish", "Ashish");
   }
 }
